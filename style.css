@@ -36,7 +36,7 @@ nav ul{
     background-image: url(Assets/Hero-bg.png);
     background-repeat: no-repeat;
     height: 698px;
-    width: 1440px;
+    width: 1250px;
 }
 .mark{
    margin-left: 3px; 
@@ -47,7 +47,7 @@ nav ul{
     justify-content: space-between;
     margin: 0 35px 0 100px;
     height: 328px;
-    width: 1140px;
+    width: 1110px;
 }
 .width{
     width: 50%;
@@ -89,6 +89,10 @@ nav ul{
     display: flex;
     justify-content: space-between;
     margin: 20px 20px;
+    
+}
+.color{
+    background-color: rgb(240, 239, 238);
 }
 .logo{
     color: rgb(43, 28, 145); 
@@ -96,5 +100,12 @@ nav ul{
 }
 .center{
     text-align: center;
+    
 } 
+.img{
+    padding: 0%;
+    border-radius: 10px;
+    margin-left:440px;
+    width: 400px;
+}
     
