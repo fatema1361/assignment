@@ -106,7 +106,7 @@ nav ul{
     background-color: rgb(240, 239, 238);
 }
 .logo{
-    color: rgb(43, 28, 145); 
+    color: rgb(43, 28, 145);
     text-align: center;
 }
 .center{
@@ -119,4 +119,9 @@ nav ul{
     margin-left:440px;
     width: 400px;
 }
-    
+.get{
+    background-color:rgb(247, 245, 241) ;
+    display: flex;
+    justify-content: space-between;
+
+}
